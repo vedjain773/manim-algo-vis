@@ -16,13 +16,12 @@ manim -pqh <Filename>.py Main
 ## Demo-Videos
 * Bubble-sort
 
-https://github.com/vedjain773/manim-algo-vis/blob/master/demo_vids/bubbleSort.mp4
+<video src="./demo_vids/bubbleSort.mp4" width="540" height="360" controls></video>
 
 * Selection-sort
 
-https://github.com/vedjain773/manim-algo-vis/blob/master/demo_vids/selectionSort.mp4
+<video src="./demo_vids/selectionSort.mp4" width="540" height="360" controls></video>
 
 * Insert-sort
 
-https://github.com/vedjain773/manim-algo-vis/blob/master/demo_vids/insertSort.mp4
-
+<video src="./demo_vids/insertSort.mp4" width="540" height="360" controls></video>
